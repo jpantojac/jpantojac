@@ -2,7 +2,7 @@
 
 **Atmospheric Geomatics Engineer | Data Scientist | AI for Climate Resilience**
 
-I am a Systems Engineer and Military Tech Lead with 20 years of operational experience in the Colombian Aerospace Force (FAC). My work sits at the intersection of **Numerical Weather Prediction (WRF)**, **Geospatial Analytics**, and **Machine Learning**.
+I am a Systems Engineer and Military Tech Lead with 20 years of operational experience in the Colombian Air Force (FAC). My work sits at the intersection of **Numerical Weather Prediction (WRF)**, **Geospatial Analytics**, and **Machine Learning**.
 
 I specialize in building end-to-end data pipelines for atmospheric forecasting and hybrid AI models for Disaster Risk Management. I am currently pursuing an M.Sc. in Data Science and Analytics, focusing on AI-driven Early Warning Systems for hydrometeorological extremes.
 
